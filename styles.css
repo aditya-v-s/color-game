@@ -1,0 +1,37 @@
+body {
+  text-align: center;
+  margin: 0;
+  background-color: #232323;
+}
+.color {
+  width: 200px;
+  height: 200px;
+  background-color: #abff03;
+  display: inline-block;
+  border-radius: 15%;
+  margin: 1%;
+}
+.title-container {
+  margin-bottom: 2%;
+  background-color: #eb4034;
+  padding: 1%;
+  margin: 0;
+
+}
+.color-container {
+  margin-top: 2%;
+}
+.result{
+  margin: 0 5%;
+}
+h1 {
+  color: #fff;
+  font-family: 'Playfair Display', serif;
+  font-size: 4rem;
+  font-weight: 700;
+  margin: 0;
+}
+.result {
+  color: #fff;
+  font-size: 2rem;
+}
